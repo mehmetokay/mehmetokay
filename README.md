@@ -1,9 +1,9 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mehmetokay&show_icons=true">
 
 # Merhaba, ben Mehmet OKAY! 
-<p align="left"> <img src="https://mehmetokay.com" alt="cobanov" /> </p>
+<p align="left"> <img src="https://mehmetokay.com" alt="mehmetokay.com" /> </p>
 
-[![](https://img.shields.io/twitter/follow/mehmet_okay?style=social)](https://www.twitter.com/mertcobanov)
+[![](https://img.shields.io/twitter/follow/mehmet_okay?style=social)](https://www.twitter.com/mehmet_okay)
 [![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/mehmetokay)
 
 
