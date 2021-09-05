@@ -1,6 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mehmetokay&show_icons=true">
 
 # Merhaba, ben Mehmet OKAY! 
+![](https://mehmetokay.com/assets/images/myavatar-122x122.png)
 <a href="https://mehmetokay.com/">Kişisel Web Sayfam</a>
 
 
